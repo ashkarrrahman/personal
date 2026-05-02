@@ -1,0 +1,43 @@
+# Ashkar Portfolio
+
+## Site Purpose
+This website is the professional portfolio of Ashkar, a PMP-certified Senior Project Manager and Scrum Master. It is designed for recruiters, hiring managers, senior leaders, and professional connections evaluating Ashkar for delivery leadership roles.
+
+## Professional Positioning
+Ashkar helps teams turn complex delivery challenges into clear plans, accountable execution, and stakeholder-ready outcomes.
+
+Primary role positioning:
+- Senior Project Manager
+- Delivery Manager
+- Scrum Master
+- Program Management candidate
+- Data transformation delivery leader
+- Enterprise delivery leader
+- AI-aware delivery leadership candidate
+
+## Core Experience
+Ashkar has 5+ years of experience leading Agile teams across software, data, healthcare, fintech, and enterprise delivery environments. His work includes Agile delivery, data onboarding, stakeholder communication, risk management, issue management, dependency tracking, release planning, cutover governance, executive reporting, and cross-functional team leadership.
+
+## Core Strengths
+- Agile and Scrum leadership
+- Stakeholder management
+- Risk, issue, and dependency management
+- Release and cutover planning
+- Data project delivery
+- Executive reporting
+- AI-enabled productivity
+- Team facilitation and problem solving
+
+## Tools
+Ashkar has experience with Jira, Confluence, Smartsheet, Microsoft Teams, Power BI, Power Automate, and OneNote.
+
+## Featured Work
+- EU Data Onboarding Program: improved sequencing, ownership, risk tracking, dependency clarity, and stakeholder visibility.
+- Release / Cutover Governance Framework: created a repeatable structure for milestone reviews, go/no-go inputs, readiness tracking, and communication checkpoints.
+- Stakeholder-Ready RAID and Dependency Tracking System: made risks, assumptions, issues, and dependencies easier for leaders to understand and act on.
+
+## Career Focus
+Ashkar is interested in growing into AI-aware delivery leadership, program management, data transformation, and enterprise delivery roles.
+
+## Contact
+Use the contact section of the website for email, LinkedIn, and resume access.
