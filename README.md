@@ -27,6 +27,16 @@ Build for production:
 npm run build
 ```
 
+## GitHub Pages
+
+This repository is configured to deploy from GitHub Actions. For the repository `ashkarrrahman/personal`, the public site URL will be:
+
+```text
+https://ashkarrrahman.github.io/personal/
+```
+
+In GitHub, open the repository, go to **Settings > Pages**, and set **Build and deployment > Source** to **GitHub Actions**. After the workflow finishes, GitHub will show the live site URL on that same Pages screen.
+
 Preview the production build:
 
 ```bash
